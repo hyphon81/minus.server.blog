@@ -5,7 +5,6 @@ title = "マイナスサーバブログ"
 MetaDataFormat = "toml"
 paginate = 9
 
-googleAnalytics = "UA-57997520-2"
 disqusShortname = "minus-server"
 
 [params]
@@ -13,3 +12,4 @@ disqusShortname = "minus-server"
   description = "This is memo for hyphon81."
   twitter = "hyphon81"
   github = "hyphon81"
+  googleAnalyticsUserID = "UA-57997520-2"
