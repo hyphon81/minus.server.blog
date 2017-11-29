@@ -1,5 +1,5 @@
 theme = "material-design"
-baseurl = "http://www2.hyphon81.net"
+baseurl = "https://www2.hyphon81.net"
 languageCode = "ja"
 title = "マイナスサーバブログ"
 MetaDataFormat = "toml"
