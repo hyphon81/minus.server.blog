@@ -1,0 +1,15 @@
+theme = "material-design"
+baseurl = "http://www2.hyphon81.net"
+languageCode = "ja"
+title = "マイナスサーバブログ"
+MetaDataFormat = "toml"
+paginate = 9
+
+googleAnalytics = "UA-57997520-2"
+disqusShortname = "minus-server"
+
+[params]
+  Author = "hyphon81"
+  description = "This is memo for hyphon81."
+  twitter = "hyphon81"
+  github = "hyphon81"
